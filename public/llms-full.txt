@@ -2,13 +2,13 @@
 
 Eixt is a modest fashion brand catering to religious women and women who wish to embrace a more modest lifestyle. The brand offers a curated collection of clothing including bags, skirts, dresses, sets, button-up shirts, and blouses — all designed with modesty and elegance in mind. The brand bridges traditional values with modern fashion sensibility, creating a welcoming space for women on their spiritual and style journey.
 
-Source: https://eixt-08a49e9a.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלי את היופי שבצניעות — Eixt
 
-URL: https://eixt-08a49e9a.zappy5.app
+URL: https://example.com
 Description: Eixt מציעה קולקציית בגדים צנועים לנשים דתיות: חצאיות, שמלות, חולצות מכופתרות ועוד, המשלבות אלגנטיות מודרנית עם ערכי מסורת. היכנסי עכשיו והתחילי את מסע הסגנון שלך.
 
 גלי את היופי שבצניעות — Eixt
@@ -496,7 +496,7 @@ Description: Eixt מציעה קולקציית בגדים צנועים לנשים
 
 ## הסיפור שמאחורי הסטייל הצנוע — Eixt
 
-URL: https://eixt-08a49e9a.zappy5.app/about
+URL: https://example.com/about
 Description: הכירי את Eixt – מותג אופנה צנועה שנולד כדי להעניק לנשים דתיות ומודרניות מרחב משלב בין אמונה לעיצוב עכשווי. קראי עוד על החזון שמאחורי כל פריט.
 
 הסיפור שמאחורי הסטייל הצנוע — Eixt
@@ -925,7 +925,7 @@ Eixt היא בית חם לכל אישה באשר היא — דתייה, מסור
 
 ## המדריך שישדרג לך את הלוק — Eixt
 
-URL: https://eixt-08a49e9a.zappy5.app/style-guide
+URL: https://example.com/style-guide
 Description: גלי איך לשלב חצאיות צנועות, שמלות וסטים מעוצבים למראה יומיומי מושלם. מדריך הסגנון של Eixt יוביל אותך צעד אחר צעד לארון חלומותיך. הכנסי ותתחדשי!
 
 המדריך שישדרג לך את הלוק — Eixt
@@ -1363,7 +1363,7 @@ Description: גלי איך לשלב חצאיות צנועות, שמלות וסט
 
 ## דברי איתנו, נשמח לעזור — Eixt
 
-URL: https://eixt-08a49e9a.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לך שאלה על בגדים צנועים או הזמנה? צרי קשר עם צוות Eixt ונחזור אלייך במהירות עם חיוך. אנחנו כאן כדי ללוות אותך במסע אל הסטייל האישי שלך.
 
 דברי איתנו, נשמח לעזור — Eixt
@@ -1787,7 +1787,7 @@ Eixt נולדה בדיוק בשביל זה – ללוות נשים בכל שלב
 
 ## מוצרים
 
-URL: https://eixt-08a49e9a.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Eixt
 
 מוצרים - Eixt
@@ -2044,7 +2044,7 @@ Description: המוצרים שלנו - Eixt
 
 ## עגלת קניות
 
-URL: https://eixt-08a49e9a.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Eixt
@@ -2277,7 +2277,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://eixt-08a49e9a.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Eixt
@@ -2696,7 +2696,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://eixt-08a49e9a.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Eixt
@@ -2936,7 +2936,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://eixt-08a49e9a.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Eixt
@@ -3331,7 +3331,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://eixt-08a49e9a.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Eixt
@@ -3588,7 +3588,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://eixt-08a49e9a.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Eixt
@@ -3874,7 +3874,7 @@ Eixt מחויבת לשביעות רצון לקוחותיה. מדיניות זו 
 
 ## פרטי המוצר
 
-URL: https://eixt-08a49e9a.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Eixt
 
 פרטי המוצר - Eixt
@@ -4109,7 +4109,7 @@ Description: פרטי המוצר - Eixt
 
 ## מוצרים
 
-URL: https://eixt-08a49e9a.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Eixt
 
 מוצרים - Eixt
@@ -4368,7 +4368,7 @@ Description: מוצרים - Eixt
 
 ## מדיניות פרטיות
 
-URL: https://eixt-08a49e9a.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4645,7 +4645,7 @@ Eixt ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיו�
 
 ## הצהרת נגישות
 
-URL: https://eixt-08a49e9a.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4931,7 +4931,7 @@ Eixt מחויבת להנגיש את השירותים לכלל הציבור. אנ
 
 ## תנאי שימוש
 
-URL: https://eixt-08a49e9a.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5236,7 +5236,7 @@ Eixt מספקת Fashion & Modest Clothing E-commerce דרך האתר. השירו
 
 ## תודה על פנייתך
 
-URL: https://eixt-08a49e9a.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Eixt - תודה על פנייתך
 
 תודה על פנייתך
